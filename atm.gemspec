@@ -4,4 +4,5 @@ Gem::Specification.new do |s|
   s.version     = '0.0.1'
   s.summary     = "Sample gem"
   s.description = "Sample gem"
+  s.authors     = ["Steve Books"]
 end
